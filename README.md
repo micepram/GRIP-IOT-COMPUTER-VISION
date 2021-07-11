@@ -1,2 +1,2 @@
-# GRIP - IoT & Computer Visions
+# GRIP - IoT & Computer Vision
 ## Pramika Garg
